@@ -15,12 +15,11 @@ body {
     padding: 0;
     overflow: hidden;
     background-color: darkblue;
-    text-align: justify;
   }
   
   li {
     float: left;
-    width: 18%;
+    width: 19%;
   }
   
   li a { /*tekst kleur/opmaak*/
