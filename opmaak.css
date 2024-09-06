@@ -24,10 +24,9 @@ body {
   li a { /*tekst kleur/opmaak*/
     display: block;
     color: skyblue;
-    text-align: center;
+    text-align: justify;
     padding: 14px 16px;
     text-decoration: none;
-  text-align: justify;
   }
   
   li a:hover {
