@@ -1,9 +1,9 @@
 body {
-    background-color: rgb(255, 247, 224);
+    background-color: rgb(255, 241, 200);
   }
  
   h1 {
-    color: white;
+    color: rgb(255, 212, 229);
     margin-left: 20px;
   }
 
@@ -24,7 +24,7 @@ body {
   
   li a { /*tekst kleur/opmaak*/
     display: block;
-    color: white;
+    color:rgb(255, 212, 229);
     text-align: center;
     padding: 14px 16px;
     text-decoration: none;
