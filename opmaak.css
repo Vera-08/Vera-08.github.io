@@ -1,9 +1,9 @@
 body {
-    background-color: white;
+    background-color: rgb(245, 226, 167);
   }
  
   h1 {
-    color: skyblue;
+    color: white;
     margin-left: 20px;
   }
 
@@ -14,7 +14,7 @@ body {
     margin: 0;
     padding: 0;
     overflow: hidden;
-    background-color: darkblue;
+    background-color: rgb(159, 173, 244);
   }
   
   li {
@@ -24,14 +24,14 @@ body {
   
   li a { /*tekst kleur/opmaak*/
     display: block;
-    color: skyblue;
+    color: white;
     text-align: center;
     padding: 14px 16px;
     text-decoration: none;
   }
   
   li a:hover {
-    background-color: rgb(0, 0, 40); /*code voor de achtergrondkleur van als je over de tekst heen hovert*/
+    background-color:  rgb(60, 76, 154); /*code voor de achtergrondkleur van als je over de tekst heen hovert*/
   }
   /*dropdown menu*/
   .dropdown {
