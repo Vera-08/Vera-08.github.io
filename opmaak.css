@@ -43,4 +43,4 @@ body {
     float: left;
     overflow: hidden;
   }
-  .active{background-color:  rgb(60, 76, 154);}
+  .active{background-color:  rgb(60, 76, 154);} /*zodat je weet op welke pagina je bent via het menu*/
