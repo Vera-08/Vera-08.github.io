@@ -5,6 +5,8 @@ body {
   p {
     color: rgb(255, 151, 192);
     margin-left: 20px;
+    border-style: hidden; 
+    border-color: rgb(131, 165, 242);   
   }
 
   h1 {
