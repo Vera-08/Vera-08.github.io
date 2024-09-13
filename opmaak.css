@@ -5,7 +5,7 @@ body {
   p {
     color: rgb(255, 151, 192);
     margin-left: 3px;
-    margin-top: 50px;
+    margin-bottom: 50px;
     border-style: solid; 
     border-color: rgb(131, 165, 242);   
     background-color: rgb(131, 165, 242);
