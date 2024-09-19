@@ -40,7 +40,7 @@ body {
   }
   
   li a:hover {
-    background-color:  rgb(60, 76, 154); /*code voor de achtergrondkleur van als je over de tekst heen hovert*/
+    background-color:  rgb(111, 131, 228); /*code voor de achtergrondkleur van als je over de tekst heen hovert*/
   }
   /*dropdown menu*/
   .dropdown {
