@@ -4,6 +4,7 @@ body {
  
   p {
     color: rgb(255, 151, 192);
+    padding-top: 10px;
     margin-bottom: 0px;
     border-style: solid; 
     border-color: rgb(131, 165, 242);   
