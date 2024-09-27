@@ -19,7 +19,7 @@ body {
   
   li {
     float: left;
-    width: 17%; /*breedte van de menu knoppen*/
+    width: 15%; /*breedte van de menu knoppen*/
   }
   
   li a { /*tekst kleur/opmaak*/
