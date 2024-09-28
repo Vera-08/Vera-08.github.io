@@ -35,6 +35,11 @@ body {
     background-color: rgb(255, 187, 214);
   }
 
+  .waarom-informatica{
+    border-style: none ;
+    background-color: rgb(255, 187, 214); 
+  }
+
 
  /*menu bar*/
  ul { /*de achtergrond/bar van van het menu*/
