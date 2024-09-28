@@ -41,6 +41,15 @@ body {
     width: 45%;
   }
 
+.geluidsfragmenten{
+  border-style: solid;
+  border-left: 10cm;
+  border-color: rgb(255, 198, 221);
+  background-color: rgb(255, 198, 221);
+  float: middle;
+  width: 50%;
+}
+
  /*menu bar*/
  ul { /*de achtergrond/bar van van het menu*/
     list-style-type: none;
