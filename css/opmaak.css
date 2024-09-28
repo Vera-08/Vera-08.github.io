@@ -6,6 +6,8 @@ body {
     color: rgb(131, 165, 242);
     margin-left: 20px;
     text-align: center;
+    border-style: none;
+    background-color: white;
   }
 
   h2{
