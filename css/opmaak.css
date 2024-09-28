@@ -27,7 +27,7 @@ body {
     border-style: solid;
     border-left: 10cm;
     background-color: rgb(255, 151, 192);
-    
+    float: left;
   }
 
 
