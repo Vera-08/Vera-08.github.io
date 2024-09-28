@@ -9,13 +9,13 @@ body {
   }
 
   h2{
-    color: rgb(255, 198, 221);
+    color: white;
     margin-left: 20px;
     text-align: center;  
   }
 
   p{
-    color: rgb(255, 198, 221);
+    color:white;
     font-size: 23px;
     text-align: center;
     width: 85%;
@@ -25,7 +25,7 @@ body {
 
   .begin{
     border-style: none ;
-    background-color: rgb(149,199,194);
+    background-color: rgb(255, 151, 192)
   }
 
  /*menu bar*/
