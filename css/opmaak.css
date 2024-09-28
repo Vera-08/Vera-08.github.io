@@ -23,6 +23,10 @@ body {
     margin-right: auto;
   }
 
+.bitmap-vector {
+  display: table;
+}
+
   .bitmapafbeelding{
     border-style: solid;
     border-left: 10cm;
@@ -30,6 +34,7 @@ body {
     background-color: rgb(255, 198, 221);
     float: left;
     width: 45%;
+    display: table-cell;
   }
 
   .vectorafbeelding{
@@ -39,6 +44,7 @@ body {
     background-color: rgb(255, 198, 221);
     float: right;
     width: 45%;
+    display: table-cell;
   }
 
 .geluidsfragmenten{
