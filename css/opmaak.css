@@ -29,7 +29,7 @@ body {
     border-color: rgb(255, 198, 221);
     background-color: rgb(255, 198, 221);
     float: left;
-    width: 50%;
+    width: 45%;
   }
 
   .vectorafbeelding{
@@ -38,7 +38,7 @@ body {
     border-color: rgb(255, 198, 221);
     background-color: rgb(255, 198, 221);
     float: right;
-    width: 50%;
+    width: 45%;
   }
 
  /*menu bar*/
