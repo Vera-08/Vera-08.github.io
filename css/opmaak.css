@@ -8,6 +8,12 @@ body {
     text-align: center;
   }
 
+  h2{
+    color: rgb(255, 151, 192);
+    margin-left: 20px;
+    text-align: center;  
+  }
+
   p{
     color: rgb(255, 151, 192);
     font-size: 23px;
@@ -16,7 +22,7 @@ body {
     margin-left: auto;
     margin-right: auto;
   }
-  
+
 
  /*menu bar*/
  ul { /*de achtergrond/bar van van het menu*/
