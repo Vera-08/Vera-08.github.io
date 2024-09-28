@@ -25,7 +25,8 @@ body {
 
   .begin{
     border-style: none ;
-    background-color: rgb(255, 151, 192)
+    background-color: rgb(255, 151, 192);
+    width: 80%;
   }
 
  /*menu bar*/
