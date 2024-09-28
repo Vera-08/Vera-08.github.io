@@ -9,13 +9,13 @@ body {
   }
 
   h2{
-    color: white;
+    color: rgb(255, 198, 221);
     margin-left: 20px;
     text-align: center;  
   }
 
   p{
-    color: white;
+    color: rgb(255, 198, 221);
     font-size: 23px;
     text-align: center;
     width: 85%;
@@ -23,34 +23,6 @@ body {
     margin-right: auto;
   }
 
-
-  .bitmapafbeelding{
-    border-style: solid;
-    border-left: 10cm;
-    border-color: rgb(255, 198, 221);
-    background-color: rgb(255, 198, 221);
-    float: left;
-    width: 45%;
-
-  }
-
-  .vectorafbeelding{
-    border-style: solid;
-    border-left: 10cm;
-    border-color: rgb(255, 198, 221);
-    background-color: rgb(255, 198, 221);
-    float: right;
-    width: 45%;
-  }
-
-#geluidsfragmenten{
-  border-style: solid;
-  border-left: 10cm;
-  border-color: rgb(255, 198, 221);
-  background-color: rgb(255, 198, 221);
-  margin-top: 10px;
-  text-align: left;
-}
 
  /*menu bar*/
  ul { /*de achtergrond/bar van van het menu*/
