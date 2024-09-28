@@ -52,8 +52,7 @@ body {
   border-left: 10cm;
   border-color: rgb(255, 198, 221);
   background-color: rgb(255, 198, 221);
-  float: middle;
-  width: 50%;
+  margin-top: 10px;
 }
 
  /*menu bar*/
