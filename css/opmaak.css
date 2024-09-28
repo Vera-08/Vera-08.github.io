@@ -23,6 +23,10 @@ body {
     margin-right: auto;
   }
 
+  .begin{
+    border-style: none ;
+    background-color: white;
+  }
 
  /*menu bar*/
  ul { /*de achtergrond/bar van van het menu*/
