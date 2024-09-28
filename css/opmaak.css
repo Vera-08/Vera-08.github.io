@@ -34,7 +34,7 @@ body {
     background-color: rgb(255, 198, 221);
     float: left;
     width: 45%;
-    height: 200px;
+
   }
 
   .vectorafbeelding{
@@ -44,7 +44,6 @@ body {
     background-color: rgb(255, 198, 221);
     float: right;
     width: 45%;
-    height: 200px;
   }
 
 .geluidsfragmenten{
@@ -53,7 +52,6 @@ body {
   border-color: rgb(255, 198, 221);
   background-color: rgb(255, 198, 221);
   margin-top: 10px;
-  width: 80%;
 }
 
  /*menu bar*/
