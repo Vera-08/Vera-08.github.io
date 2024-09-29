@@ -1,8 +1,10 @@
-body {
+body 
+{
     background-color: rgb(255, 248, 239);
   }
  
-  h1 {
+  h1 
+  {
     color: rgb(131, 165, 242);
     margin-left: 20px;
     text-align: center;
@@ -11,13 +13,15 @@ body {
     font-family: Georgia, serif;
   }
 
-  h2{
+  h2
+  {
     color: rgb(131, 165, 242);
     margin-left: 20px;
     text-align: center;  
   }
 
-  p{
+  p
+  {
     color:white;
     font-size: 20px;
     text-align: left;
@@ -26,7 +30,8 @@ body {
     margin-right: auto;
   }
 
-  .Inleiding{
+  .Inleiding
+  {
     border-style: none ;
     background-color: rgb(255, 189, 216);
     width: 90%;
@@ -34,16 +39,33 @@ body {
     padding: 5px;
   }
 
-  .Hoofdtekst{
+  .Hoofdtekst
+  {
     border-style: none ;
     background-color: rgb(255, 189, 216);
     padding: 5px;
   }
 
-  .footer{
+  .footer
+  {
     font-size: 15;
     text-align: center;
   }
+
+  #footer-p
+  {
+    color:white;
+    font-size: 15px;
+    text-align: center;
+    width: 85%;
+    margin-left: auto;
+    margin-right: auto;    
+      border-style: none ;
+      background-color: rgb(255, 189, 216);
+      padding: 5px;
+  }
+  
+
 
  /*menu bar*/
  ul { /*de achtergrond/bar van van het menu*/
