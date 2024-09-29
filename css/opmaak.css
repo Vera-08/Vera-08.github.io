@@ -40,6 +40,11 @@ body {
     padding: 10px;
   }
 
+  .footer{
+    font-size: 15;
+    text-align: center;
+  }
+
  /*menu bar*/
  ul { /*de achtergrond/bar van van het menu*/
     list-style-type: none;
