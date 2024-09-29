@@ -43,7 +43,7 @@ body
   {
     border-style: none ;
     background-color: rgb(255, 189, 216);
-    padding: 2px
+    padding: 1px
   }
 
   .footer
@@ -59,7 +59,7 @@ body
     text-align: center;   
       border-style: none ;
       background-color: rgb(131, 165, 242);
-      padding: 5px
+      padding: 1px
   }
   
 
