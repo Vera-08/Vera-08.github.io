@@ -36,12 +36,14 @@ body
     background-color: rgb(255, 189, 216);
     width: 90%;
     margin-left: 70px;
+    padding: 2px
   }
 
   .Hoofdtekst
   {
     border-style: none ;
     background-color: rgb(255, 189, 216);
+    padding: 2px
   }
 
   .footer
@@ -56,8 +58,8 @@ body
     font-size: 15px;
     text-align: center;   
       border-style: none ;
-      background-color: rgb(255, 189, 216);
-      padding: 5px;
+      background-color: rgb(131, 165, 242);
+      padding: 5px
   }
   
 
