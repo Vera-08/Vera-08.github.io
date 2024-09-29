@@ -54,8 +54,9 @@ body
     border-style: none ;
     background-color: rgb(131, 165, 242);
     padding: 5px;
-    bottom: 0; 
-    left: 0; 
+    margin-bottom: 0; 
+    margin-left: 0;
+    margin-right: 0; 
   }
   
 
