@@ -14,13 +14,13 @@ body {
   h2{
     color: rgb(131, 165, 242);
     margin-left: 20px;
-    text-align: center;  
+    text-align: left;  
   }
 
   p{
     color:white;
     font-size: 20px;
-    text-align: center;
+    text-align: left;
     width: 85%;
     margin-left: auto;
     margin-right: auto;
