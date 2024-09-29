@@ -14,7 +14,7 @@ body {
   h2{
     color: rgb(131, 165, 242);
     margin-left: 20px;
-    text-align: 20px;  
+    text-align: center;  
   }
 
   p{
@@ -31,13 +31,13 @@ body {
     background-color: rgb(255, 189, 216);
     width: 90%;
     margin-left: 70px;
-    padding: 10px;
+    padding: 5px;
   }
 
   .Hoofdtekst{
     border-style: none ;
     background-color: rgb(255, 189, 216);
-    padding: 10px;
+    padding: 5px;
   }
 
   .footer{
