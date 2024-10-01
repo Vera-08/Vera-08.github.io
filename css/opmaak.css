@@ -61,16 +61,13 @@ body
 
   }
 
-#hockey 
-{
-margin-right: 400px;
+#hockey {
+  margin-right: 400px;
 }
 
- #paardrijden /**alles met het idee "paardrijden" in html krijgt deze opmaak**/ 
- {
-margin-right: 400px;
- } 
-
+#paardrijden {
+  margin-right: 350px;
+}
 
  /*menu bar*/
  ul { /*de achtergrond/bar van van het menu*/
