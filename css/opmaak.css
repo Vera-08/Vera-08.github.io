@@ -54,6 +54,12 @@ body
     margin-right: auto;
   }
 
+  #paardrijden {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+  }
+
   #footer-p /**alles met het idee "footer-p" in html krijgt deze opmaak**/ 
   {
     color:white;
