@@ -52,8 +52,8 @@ body
     border-style: none ;
     background-color: rgb(131, 165, 242);
     padding: 5px; 
-    border-left-width:100%;
-    border-right-width:100% ;
+    padding-left: 20px;
+
   }
   
 
