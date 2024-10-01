@@ -48,20 +48,6 @@ body
     padding-bottom: 0,8%;
   }
 
-/*column*/
-  * {
-    box-sizing: border-box;
-  }
-  
-  .row {
-    display: flex;
-  }
-
-  .column {
-    flex: 33.33%;
-    padding: 5px;
-  }
-/*einde*/
 
   #footer-p /**alles met het idee "footer-p" in html krijgt deze opmaak**/ 
   {
@@ -106,8 +92,4 @@ body
     float: left;
     overflow: hidden;
   }
-
-  
-  .active { background-color:  rgb(60, 76, 154);
-  }
-   /*zodat je weet op welke pagina je bent via het menu*/
+  .active{background-color:  rgb(60, 76, 154);} /*zodat je weet op welke pagina je bent via het menu*/
