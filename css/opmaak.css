@@ -47,20 +47,19 @@ body
     padding-top: 0,8%;
     padding-bottom: 0,8%;
   }
-
-  #hockey {
-    display: block;
-    margin-left: auto;
-    margin-right: auto;
-    right: 10px;
+/*column*/
+  * {
+    box-sizing: border-box;
+  }
+  
+  .row {
+    display: flex;
   }
 
-  #paardrijden {
-    display: block;
-    margin-left: auto;
-    margin-right: auto;
-    left: 10px;
-  }
+  .column {
+    flex: 33.33%;
+    padding: 5px;
+/*einde*/
 
   #footer-p /**alles met het idee "footer-p" in html krijgt deze opmaak**/ 
   {
