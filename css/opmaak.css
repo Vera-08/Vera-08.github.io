@@ -49,11 +49,17 @@ body
   }
 
   #hockey {
-    margin-left: 700px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    float: right;
   }
 
   #paardrijden {
-    margin-left: 150px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    float: left;
   }
 
   #footer-p /**alles met het idee "footer-p" in html krijgt deze opmaak**/ 
