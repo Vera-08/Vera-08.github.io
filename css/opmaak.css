@@ -3,7 +3,7 @@ body
     background-color: rgb(255, 248, 239);
   }
  
-  h1 
+  h1 /**alles wat grootte h1 heeft krijgt deze opmaak**/
   {
     color: rgb(131, 165, 242);
     margin-left: 20px;
@@ -13,14 +13,14 @@ body
     font-family: Georgia, serif;
   }
 
-  h2
+  h2 /**alles wat grootte h2 heeft krijgt deze opmaak**/
   {
     color: rgb(131, 165, 242);
     margin-left: 20px;
     text-align: center;  
   }
 
-  p
+  p /**alles wat grootte p heeft krijgt deze opmaak**/
   {
     color:white;
     font-size: 20px;
@@ -30,7 +30,7 @@ body
     margin-right: auto;
   }
 
-  .Inleiding
+  .Inleiding /**alles met de class "inleiding" in html krijgt deze opmaak**/
   {
     border-style: none ;
     background-color: rgb(255, 189, 216);
@@ -40,7 +40,7 @@ body
     padding-bottom: 0,8%;
   }
 
-  .Hoofdtekst
+  .Hoofdtekst /**alles met de class "hoofdtekst" in html krijgt deze opmaak**/
   {
     border-style: none ;
     background-color: rgb(255, 189, 216);
@@ -48,7 +48,7 @@ body
     padding-bottom: 0,8%;
   }
 
-  #footer-p
+  #footer-p /**alles met het idee "footer-p" in html krijgt deze opmaak**/ 
   {
     color:white;
     font-size: 15px;
@@ -63,7 +63,7 @@ body
 
   #paardrijden
   {
-margin-right: 500px;
+margin-right: 450px;
 
   }
 
