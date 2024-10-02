@@ -41,7 +41,7 @@ body
   .Hoofdtekst /**alles met de class "hoofdtekst" in html krijgt deze opmaak**/
   {
     border-style: none;
-    border-radius: 8px;
+    border-radius: 10px;
     background-color: rgb(255, 189, 216);
   }
 
